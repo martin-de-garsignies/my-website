@@ -1,0 +1,25 @@
+.btn-red{	background-color: #E02B20;
+			color: white;
+			padding: 15px 20px;
+			border-radius: 4px;
+			font-family: 'Arvo', serif;
+}
+
+.btn-red:hover {background-color: #20822B;
+				color: white;
+				padding: 15px 20px;
+				border-radius: 4px;
+}
+
+.btn-green{	background-color: #20822B;
+			color: white;
+			padding: 15px 20px;
+			border-radius: 4px;
+			font-family: 'Arvo', serif;
+			font-weight: bold;
+}
+
+.btn-green:hover {	background-color: #E02B20;
+					border-radius: 4px;
+			
+}

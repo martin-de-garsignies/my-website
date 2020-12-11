@@ -1,0 +1,35 @@
+
+.banner {
+  /* 1. Set a background image */
+  	background-image: linear-gradient(-225deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.1) 50%),
+	url(../images/fond.jpg);
+  /* 2. Make the background image cover the banner div */
+	background-size: cover;     
+  /* 3. Center the image */
+	background-position: center;
+	padding: 40px 0px;
+	
+}
+
+
+.banner img{
+	height: 80px;
+	width: auto;
+	text-align: left;
+	padding: 0px 40px;
+}
+
+.banner h1 {
+ 	font-size: 50px;
+	font-weight: bold;
+	font-family: 'Annie Use Your Telescope', cursive;
+	color: #E02B20;
+	text-align: center;
+}
+
+.banner h2 {
+  	color: white;
+  	font-size: 30px;
+  	font-weight: bold;
+	margin-bottom: 70px;
+}

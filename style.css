@@ -1,0 +1,45 @@
+
+
+/* Fonts (imported) */
+
+/* Annie use your telescope (main titles)*/
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+/* Lato, sans serif (content)*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+/* Arvo, serif (tabs)*/
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
+/* CSS files (imported)*/
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/container.css");
+
+/*general styles and rules*/
+body {
+  font-family: 'lato', sans-serif;
+  font-size: 18px;
+  margin: 0px;
+  background-color:#FEF8F2;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+i{
+	font-size: 40px;
+	color: #20822B;
+}
+
+i:hover{
+	color: #E02B20;
+}
+
+
